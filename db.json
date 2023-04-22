@@ -1,0 +1,123 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 2,
+      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 3,
+      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 4,
+      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
+      "descricao": "2,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 5,
+      "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 6,
+      "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
+      "descricao": "1,6 mil visualizações",
+      "url": "https://www.youtube.com/embed/vf9P_PycgRw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 7,
+      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+      "descricao": "3,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 8,
+      "titulo": "baNaNa | Memes do JavaScript #2",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 10
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 11
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 12
+    },
+    {
+      "titulo": "Comunidade e carreira tech: conheça a trajetória de uma Engenheira de Software | Jucilene Fernandes",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/A5qPpiJHgVg",
+      "imagem": "https://yt3.ggpht.com/Fqr4oo0VR4l5KB2E7frxX00reaPw3oBX5csxGmijKx5UTDPY4xLPW0eYTnzh5TvkqNV35g-HHQ=s48-c-k-c0x00ffffff-no-rj",
+      "id": 13
+    },
+    {
+      "titulo": "PC da NASA 2023!",
+      "descricao": "6 mil visualizações",
+      "url": "https://www.youtube.com/embed/pf1IhjYktfs",
+      "imagem": "https://yt3.ggpht.com/Lc1_3K6gFGwQfY5BaVAK82g18Ryv-Z3WJONafw3tukUa9-Htz0WDcEmtZazzMAeihphYFtIlsQ=s48-c-k-c0x00ffffff-no-rj",
+      "id": 14
+    },
+    {
+      "titulo": "alanzoka jogando Dead Island 2 - Parte #01",
+      "descricao": "0 mil visualizações",
+      "url": "https://www.youtube.com/embed/UQnhwd-g2C8",
+      "imagem": "https://yt3.ggpht.com/ytc/AGIKgqMcLFqcH7aZuBRihSbFmUk3pCkAulLv7SEgJPzq=s68-c-k-c0x00ffffff-no-rj",
+      "id": 15
+    },
+    {
+      "titulo": "Como é FEITO o LEITE EM PÓ #Boravê 🔵Manual do Mundo",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/7n9jjSLZmDU",
+      "imagem": "https://yt3.ggpht.com/-pJxUP1wezj8SREiWAyEzlusc9_PIiMp-QBa5OAmx8w2iHvczS_Krl-MAPYIidgcFy8lpI2L4ow=s68-c-k-c0x00ffffff-no-rj",
+      "id": 16
+    },
+    {
+      "titulo": "Japão que explode o cerebro.",
+      "descricao": "6 mil visualizações",
+      "url": "https://www.youtube.com/embed/g4bDe-OV4xA",
+      "imagem": "https://yt3.ggpht.com/XQtHYlDILIIZLVZaDZ0EU1O2bwFyJX7ruvzw4dVZAjKKUaFggp_hXNQHSZqWNCpvG1ENCFqlIg=s48-c-k-c0x00ffffff-no-rj",
+      "id": 17
+    }
+  ]
+}
